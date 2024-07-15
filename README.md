@@ -16,7 +16,7 @@ In last steps, clipped image is reprojected to EPSG: 25833 and raster tiles with
 
 ![image](https://github.com/user-attachments/assets/8db300ec-9b53-433b-a114-8ce2fbe31ec7)
 
-### 512 by 512 JPEG image tiles displayed in QGIS:
+### JPEG image tiles (512x512) displayed in QGIS:
 <img width="827" alt="image_tiles_512x512" src="https://github.com/user-attachments/assets/ac0c5ec7-9bc9-4ce5-8443-8543d7a3802e">
 
 
