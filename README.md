@@ -1,12 +1,12 @@
 # Motor_AI_Exercise1
 
-Python solution of Motor AI Challenge - Practical Exercise 1. 
+Python solution of Motor AI Challenge - Practical Exercise 1.
 
-The goal of the exercise is to assess skills regarding to acquisition of open source satellite data as well as analyzing and processing vector and raster data.
+The goal of the exercise is to assess skills regarding acquisition of open-source satellite data as well as analyzing and processing vector and raster data.
 
-The script first downloads a Sentinel-2 image for Berlin region as well as OSM road data. S2 image is masked (clipped) with buffered roads that are filtered wrt. to a speed (max. speed >=50)and direction (direction of travel is forward) limit. 
+The script first downloads a Sentinel-2 (S2) image for the Berlin region together with OSM road data. S2 image is masked (clipped) with buffered roads that are filtered with respect to a speed (max. speed >=50) and direction (direction of travel is forward) limit.
 
-In the last steps, clipped image is reprojected to EPSG: 25833 and 110 raster tiles with sizes of 512 by 512 is generated from clipped image.
+In the last steps, the clipped image is reprojected to EPSG: 25833, and 110 raster tiles with sizes of 512 by 512 are generated from the clipped image.
 
 ### Visualization of initial Sentinel-2 image for Berlin region:
 
