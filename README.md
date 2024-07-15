@@ -8,11 +8,11 @@ The script first downloads a Sentinel 2 image for Berlin region as well as OSM r
 
 In last steps, clipped image is reprojected to EPSG: 25833 and raster tiles with sizes of 512 by 512 is generated.
 
-###Initial Sentinel 2 image for Berlin region:
+### Initial Sentinel 2 image for Berlin region:
 
 ![image](https://github.com/user-attachments/assets/08e7abb9-e294-49a8-ae59-c4638352f980)
 
-###Reprojected masked Sentinel-2 image:
+### Reprojected masked Sentinel-2 image:
 
 ![image](https://github.com/user-attachments/assets/8db300ec-9b53-433b-a114-8ce2fbe31ec7)
 
